@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\",
+  "WorkspaceRootPath": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|c:\\users\\florf\\onedrive\\escritorio\\consultorionutricion\\consultorionutricion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|c:\\users\\florf\\onedrive\\escritorio\\consultorionutricion\\consultorionutricion\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|d:\\desktop\\ivan\\consultorionutricion\\consultorionutricion\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|c:\\users\\florf\\onedrive\\escritorio\\consultorionutricion\\consultorionutricion\\views\\pacientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:views\\pacientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|d:\\desktop\\ivan\\consultorionutricion\\consultorionutricion\\models\\consultum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:models\\consultum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|c:\\users\\florf\\onedrive\\escritorio\\consultorionutricion\\consultorionutricion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|d:\\desktop\\ivan\\consultorionutricion\\consultorionutricion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|c:\\users\\florf\\onedrive\\escritorio\\consultorionutricion\\consultorionutricion\\data\\consultoriodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|d:\\desktop\\ivan\\consultorionutricion\\consultorionutricion\\data\\consultoriodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:data\\consultoriodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|c:\\users\\florf\\onedrive\\escritorio\\consultorionutricion\\consultorionutricion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\views\\pacientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:views\\pacientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25487519-0773-4933-BDB5-BDCA6E03FFFB}|consultorioNutricion.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -34,81 +46,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:45:37.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consultum.cs",
+              "DocumentMoniker": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Models\\Consultum.cs",
+              "RelativeDocumentMoniker": "Models\\Consultum.cs",
+              "ToolTip": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Models\\Consultum.cs",
+              "RelativeToolTip": "Models\\Consultum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:43:04.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T20:26:05.25Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-11T00:29:41.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\Views\\Pacientes\\Details.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Views\\Pacientes\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Pacientes\\Details.cshtml",
-              "ToolTip": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\Views\\Pacientes\\Details.cshtml",
+              "ToolTip": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Views\\Pacientes\\Details.cshtml",
               "RelativeToolTip": "Views\\Pacientes\\Details.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T00:17:44.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T00:17:44.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "PacientesController.cs",
-              "DocumentMoniker": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\Controllers\\PacientesController.cs",
+              "DocumentMoniker": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Controllers\\PacientesController.cs",
               "RelativeDocumentMoniker": "Controllers\\PacientesController.cs",
-              "ToolTip": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\Controllers\\PacientesController.cs",
+              "ToolTip": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Controllers\\PacientesController.cs",
               "RelativeToolTip": "Controllers\\PacientesController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T00:17:21.112Z",
+              "WhenOpened": "2025-04-11T00:17:21.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultorioDbContext.cs",
+              "DocumentMoniker": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Data\\ConsultorioDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ConsultorioDbContext.cs",
+              "ToolTip": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Data\\ConsultorioDbContext.cs",
+              "RelativeToolTip": "Data\\ConsultorioDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T01:05:33.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ConsultorioDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\Data\\ConsultorioDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ConsultorioDbContext.cs",
-              "ToolTip": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\Data\\ConsultorioDbContext.cs",
-              "RelativeToolTip": "Data\\ConsultorioDbContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA7wB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T01:05:33.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\Program.cs",
+              "ToolTip": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T23:25:38.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\florf\\OneDrive\\Escritorio\\consultorioNutricion\\consultorioNutricion\\appsettings.json",
+              "ToolTip": "D:\\Desktop\\IVAN\\ConsultorioNutricion\\consultorioNutricion\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-06T22:55:47.474Z"
             }

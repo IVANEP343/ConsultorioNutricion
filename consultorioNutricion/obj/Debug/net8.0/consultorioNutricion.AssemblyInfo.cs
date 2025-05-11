@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("consultorioNutricion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ebc0e26aaa987bdf34b026e68d6ea54bc5d2f92")]
 [assembly: System.Reflection.AssemblyProductAttribute("consultorioNutricion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("consultorioNutricion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
